@@ -19,6 +19,7 @@ I'm a passionate **Software Engineer** specializing in building robust web and m
 - React Native
 - JavaScript / TypeScript
 - RESTful APIs
+- AWS and Google Cloud
 
 ## 📂 Other Notable Projects
 
